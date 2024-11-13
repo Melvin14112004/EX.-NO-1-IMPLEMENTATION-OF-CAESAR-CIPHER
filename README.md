@@ -75,7 +75,3 @@ int main() {
 ![image](https://github.com/user-attachments/assets/8e80b9b1-6943-47da-9fac-5a2220429164)
 
 
-
-
-## RESULT :
-
